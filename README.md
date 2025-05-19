@@ -1,1 +1,1 @@
-# Aktien-analyzer
+requirements.txt
